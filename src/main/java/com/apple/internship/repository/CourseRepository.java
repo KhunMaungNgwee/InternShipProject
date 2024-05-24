@@ -8,7 +8,7 @@ import org.springframework.data.repository.query.Param;
 
 import com.apple.internship.entity.Course;
 
-import com.internship.demo.common.ActiveStatus;
+import com.apple.internship.common.ActiveStatus;
 
 public interface CourseRepository extends JpaRepository<Course, Long> {
 	@Query("select u from Course u where u.activeStatus= :activeStatus")

@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.apple.internship.entity.Student;
 import com.apple.internship.repository.StudentRepository;
 import com.apple.internship.service.StudentService;
-import com.internship.demo.common.ActiveStatus;
+import com.apple.internship.common.ActiveStatus;
 
 @Service
 public class StudentServiceImpl implements StudentService {

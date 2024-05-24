@@ -11,9 +11,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import com.apple.internship.entity.Course;
 import com.apple.internship.service.CourseService;
-import com.internship.demo.common.ActiveStatus;
-import com.internship.demo.common.Response;
-
+import com.apple.internship.common.Response;
+import com.apple.internship.common.ActiveStatus;
 @RestController
 @RequestMapping("/course/")
 @CrossOrigin(origins="*")

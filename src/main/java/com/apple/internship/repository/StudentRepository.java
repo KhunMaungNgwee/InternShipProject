@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import com.apple.internship.entity.Student;
-import com.internship.demo.common.ActiveStatus;
+import com.apple.internship.common.ActiveStatus;
 
 
 public interface StudentRepository extends JpaRepository<Student, Long> {

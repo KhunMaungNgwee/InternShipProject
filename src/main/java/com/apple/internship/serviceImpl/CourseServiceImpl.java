@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.apple.internship.entity.Course;
 import com.apple.internship.repository.CourseRepository;
 import com.apple.internship.service.CourseService;
-import com.internship.demo.common.ActiveStatus;
+import com.apple.internship.common.ActiveStatus;
 
 public class CourseServiceImpl implements CourseService {
 
