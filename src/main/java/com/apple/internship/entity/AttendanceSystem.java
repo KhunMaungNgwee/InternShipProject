@@ -41,4 +41,6 @@ public class  AttendanceSystem extends AbstractEntity implements Serializable {
 	
 	@Column(name="att_record")
 	private String attRecord;
+	
+	
 }

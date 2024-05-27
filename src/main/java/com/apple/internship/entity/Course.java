@@ -1,12 +1,14 @@
 package com.apple.internship.entity;
 
 import java.io.Serializable;
+import java.util.List;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.Setter;
@@ -41,6 +43,8 @@ public class Course extends AbstractEntity implements Serializable {
 	@Column(name="Duration")
 	private int Duration;
 	
+	@ManyToMany(mappedBy="course")
+	private List<Student> student;
 	
 
 }
