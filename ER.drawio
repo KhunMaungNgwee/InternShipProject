@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:16:12.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WJqiQDuU9DjlEbgOVt7B" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:17:54.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kt5aaJb-pEvTw8eIKnnQ" version="24.4.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -399,8 +399,8 @@
             <mxPoint x="570" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNWAVKzch30TiNjkfSmi-1" value="Entity Relationship Diagram for Attendance Management System&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="50" width="370" height="30" as="geometry" />
+        <mxCell id="eNWAVKzch30TiNjkfSmi-1" value="Entity Relationship Diagram for Attendance Management System&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
