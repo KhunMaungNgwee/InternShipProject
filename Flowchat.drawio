@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:10:47.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2VFpjXfU8Oz2RP9A5oGL" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:23:13.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BIbk81n2sNZPdVuewTik" version="24.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="800" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PD6dZUJvrpde0xA2Mso_-12" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="80" width="100" height="60" as="geometry" />
+          <mxGeometry x="150" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PD6dZUJvrpde0xA2Mso_-17" value="Student scan QR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="460" width="100" height="100" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYYZc7vPwuhONAXUddUK-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="80" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OYYZc7vPwuhONAXUddUK-1" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="890" width="100" height="60" as="geometry" />
@@ -116,11 +116,14 @@
         <mxCell id="OYYZc7vPwuhONAXUddUK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="OYYZc7vPwuhONAXUddUK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3PqgrQ7BcCiymKEEIIqm-0" value="Flow chart of Teacher side" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="30" width="160" height="30" as="geometry" />
+        <mxCell id="3PqgrQ7BcCiymKEEIIqm-0" value="&amp;nbsp;Teacher side" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="90" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PqgrQ7BcCiymKEEIIqm-1" value="Flow chart of Student side" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="30" width="150" height="30" as="geometry" />
+        <mxCell id="3PqgrQ7BcCiymKEEIIqm-1" value="Student side" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3PqgrQ7BcCiymKEEIIqm-2" value="Flowchart Diagram&amp;nbsp; for Attendance Management System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
