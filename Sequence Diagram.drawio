@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T06:31:02.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GiEOYPc3BFZE9DH6h21k" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:26:07.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Pi75oIGtSD3rRp2vkTrt" version="24.4.9" type="github">
   <diagram name="Page-1" id="T3-toPrj7-Y9PyS_owqm">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,6 +181,9 @@
             <mxPoint x="90" y="500" as="sourcePoint" />
             <mxPoint x="170" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvDuUyNl6s4NvvB-7_4-1" value="Sequence Diagram for Attendance Management System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
